@@ -24,5 +24,9 @@ Todos os projetos foram feitos seguindo o curso <a href="https://www.udemy.com/c
     <td>4</td>
     <td>Hidden Search Widget</td>
   </tr>
+  <tr>
+    <td>5</td>
+    <td>Blur Loading</td>
+  </tr>
   
 </table>

@@ -20,4 +20,9 @@ Todos os projetos foram feitos seguindo o curso <a href="https://www.udemy.com/c
     <td>3</td>
     <td>Rotating Navigation Animation</td>
   </tr>
+  <tr>
+    <td>4</td>
+    <td>Hidden Search Widget</td>
+  </tr>
+  
 </table>
